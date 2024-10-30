@@ -1,0 +1,56 @@
+.ldv-avg-rating {
+
+}
+
+.ldv-avg-count {
+    vertical-align: middle;
+    padding-left: 4px;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.ldv-avg-star-count {
+    height: 21px;
+}
+
+.ldv-avg-star {
+    height: 21px;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    vertical-align: middle;
+}
+
+.ldv-avg-readmore {
+    padding-top: 6px !important;
+    font-size: 11px !important;
+}
+
+.ldv-random-author{
+    font-size: 10px;
+    font-style: italic;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+.ldv-random-item{
+    
+}
+
+.ldv-random-description{
+    font-size: 12px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;  
+}
+
+.ldv-random-star{
+    height: 12px;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    vertical-align: middle;
+    padding-bottom: 4px;    
+}
+
+.ldv-random-readmore{
+    font-size: 11px !important;  
+}

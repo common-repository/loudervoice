@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loudervoice Reviews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-01 11:27-0000\n"
+"PO-Revision-Date: 2012-02-20 15:36-0000\n"
+"Last-Translator: Conor O'Neill <conor@loudervoice.com>\n"
+"Language-Team: LouderVoice <support@loudervoice.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: C:\\Users\\Dave\\Documents\\NetBeansProjects\\LouderVoiceWPPlugin\\wp-content\\plugins\\loudervoice-reviews\\\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/ldv-config.php:53
+msgid "LouderVoice Reviews"
+msgstr "LouderVoice Reviews"
+
+#: admin/ldv-config.php:68
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/ldv-config.php:74
+msgid "Don't have an API Key? <a href=\"http://www.loudervoice.com/contact/\">Contact LouderVoice now</a> to get one."
+msgstr "Don't have an API Key? <a href=\"http://www.loudervoice.com/contact/\">Contact LouderVoice now</a> to get one."
+
+#: admin/ldv-config.php:81
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: admin/ldv-config.php:87
+msgid "<a href=\"http://www.loudervoice.com/contact/\">Contact LouderVoice</a> for your Facebook App ID"
+msgstr "<a href=\"http://www.loudervoice.com/contact/\">Contact LouderVoice</a> for your Facebook App ID"
+
+#: admin/ldv-config.php:95
+msgid "CSS Directory"
+msgstr "CSS Directory"
+
+#: admin/ldv-config.php:105
+msgid "Choose display language"
+msgstr "Choose display language"
+
+#: admin/ldv-config.php:130
+msgid "Where to enable reviews"
+msgstr "Where to enable reviews"
+
+#: admin/ldv-config.php:136
+msgid "Enable on All Pages with the following templates"
+msgstr "Enable on All Pages with the following templates"
+
+#: admin/ldv-config.php:161
+msgid "You have no custom page templates set up"
+msgstr "You have no custom page templates set up"
+
+#: admin/ldv-config.php:168
+msgid "Enable on following Custom Post types"
+msgstr "Enable on following Custom Post types"
+
+#: admin/ldv-config.php:190
+msgid "There are no custom post types set up"
+msgstr "There are no custom post types set up"
+
+#: admin/ldv-config.php:198
+msgid "Default Review Tags"
+msgstr "Default Review Tags"
+
+#: admin/ldv-config.php:201
+msgid "If using the options above, please enter tags to assign to all reviews. (You can override these on individual pages)"
+msgstr "If using the options above, please enter tags to assign to all reviews. (You can override these on individual pages)"
+
+#: admin/ldv-config.php:208
+msgid "Please separate tags with a comma"
+msgstr "Please separate tags with a comma"
+
+#: admin/ldv-config.php:215
+msgid "Default Review Category"
+msgstr "Default Review Category"
+
+#: admin/ldv-config.php:218
+msgid "If using the options above, please choose a Category to assign to all reviews. (You can override these on individual pages)"
+msgstr "If using the options above, please choose a Category to assign to all reviews. (You can override these on individual pages)"
+
+#: admin/ldv-config.php:223
+#: admin/ldv-post-meta.php:152
+msgid "Choose a Category"
+msgstr "Choose a Category"
+
+#: admin/ldv-config.php:246
+msgid "Review Positioning"
+msgstr "Review Positioning"
+
+#: admin/ldv-config.php:251
+msgid "Where should reviews be displayed on the page"
+msgstr "Where should reviews be displayed on the page"
+
+#: admin/ldv-config.php:266
+msgid "Automatic Positioning - after page content (using the_content() hook)"
+msgstr "Automatic Positioning - after page content (using the_content() hook)"
+
+#: admin/ldv-config.php:278
+msgid "Manual Positioning - add"
+msgstr "Manual Positioning - add"
+
+#: admin/ldv-config.php:278
+msgid "to your template"
+msgstr "to your template"
+
+#: admin/ldv-config.php:288
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: admin/ldv-post-meta.php:64
+msgid "This page will display a form for people to write new reviews. When published, these reviews can be viewed at the following page:"
+msgstr "This page will display a form for people to write new reviews. When published, these reviews can be viewed at the following page:"
+
+#: admin/ldv-post-meta.php:70
+msgid "Item being reviewed"
+msgstr "Item being reviewed"
+
+#: admin/ldv-post-meta.php:83
+msgid "Enable Reviews?"
+msgstr "Enable Reviews?"
+
+#: admin/ldv-post-meta.php:94
+msgid "What's being reviewed?"
+msgstr "What's being reviewed?"
+
+#: admin/ldv-post-meta.php:100
+msgid "This could be the title of an item, business or service"
+msgstr "This could be the title of an item, business or service"
+
+#: admin/ldv-post-meta.php:107
+msgid "Number of reviews per page?"
+msgstr "Number of reviews per page?"
+
+#: admin/ldv-post-meta.php:132
+msgid "Tags to apply to reviews"
+msgstr "Tags to apply to reviews"
+
+#: admin/ldv-post-meta.php:139
+msgid "Separate tags with a comma"
+msgstr "Separate tags with a comma"
+
+#: admin/ldv-post-meta.php:147
+msgid "Review Category"
+msgstr "Review Category"
+
+#: admin/ldv-post-meta.php:172
+msgid "Where to allow review writing?"
+msgstr "Where to allow review writing?"
+
+#: admin/ldv-post-meta.php:177
+msgid " Do you want to allow anyone to write reviews directly on this page or do you want a separate private page for writing reviews that you invite people to?"
+msgstr " Do you want to allow anyone to write reviews directly on this page or do you want a separate private page for writing reviews that you invite people to?"
+
+#: admin/ldv-post-meta.php:185
+msgid "Write on this page"
+msgstr "Write on this page"
+
+#: admin/ldv-post-meta.php:195
+msgid "Create a separate page"
+msgstr "Create a separate page"
+
+#: admin/ldv-post-meta.php:205
+msgid "Create 'Write Reviews' Page Now"
+msgstr "Create 'Write Reviews' Page Now"
+
+#: admin/ldv-post-meta.php:206
+msgid "Loading"
+msgstr "Loading"
+
+#: admin/ldv-post-meta.php:214
+msgid "Review Page Created"
+msgstr "Review Page Created"
+
+#: admin/ldv-post-meta.php:216
+#: admin/ldv-post-meta.php:232
+msgid "This is the URL you should send to your customers when you want them to write a review:"
+msgstr "This is the URL you should send to your customers when you want them to write a review:"
+
+#: admin/ldv-post-meta.php:223
+msgid "There was an error while creating the page."
+msgstr "There was an error while creating the page."
+
